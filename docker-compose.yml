@@ -19,7 +19,7 @@ services:
 
   app:
     build: .
-    image: kozhanov-abdualim-student-api:v1.0-kozhanov-abdualim
+    image: kozhanov-abdualim-student-api:v1.1-kozhanov-abdualim
     environment:
       DB_URL: jdbc:postgresql://db:5432/${DB_NAME}
       DB_USERNAME: ${DB_USERNAME}
