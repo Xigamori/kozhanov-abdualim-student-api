@@ -1,5 +1,5 @@
 # Kozhanov Abdualim Student API
-REST API for managing students, built with Spring Boot and PostgreSQL.
+REST API for managing students, built with Spring Boot and PostgreSQL. Documentation by Kozhanov Abdualim.
 Author: Kozhanov Abdualim
 
 ## Changes by Kozhanov Abdualim
