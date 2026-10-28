@@ -1,5 +1,5 @@
 # Kozhanov Abdualim Student API
-Spring Boot CRUD application for managing students.
+REST API for managing students, built with Spring Boot and PostgreSQL.
 Author: Kozhanov Abdualim
 
 ## Changes by Kozhanov Abdualim
