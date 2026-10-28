@@ -1,0 +1,100 @@
+========== SYSTEM REPORT ==========
+Student: Kozhanov Abdualim
+Date and time: 2026-10-28 23:57:14
+Username: Xigamori
+
+--- Operating system ---
+Debian GNU/Linux 13 (trixie)
+Kernel: 6.18.54.1-microsoft-standard-WSL2
+
+--- CPU ---
+CPU(s):                                  16
+Model name:                              12th Gen Intel(R) Core(TM) i7-12650H
+
+--- Memory ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       1.1Gi       6.5Gi        10Mi       149Mi       6.5Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+--- Disk usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  3.0G  953G   1% /
+
+--- Available disk space ---
+953G available on /
+
+========== SYSTEM REPORT ==========
+Student: Kozhanov Abdualim
+Date and time: 2026-10-28 23:57:59
+Username: Xigamori
+
+--- Operating system ---
+Debian GNU/Linux 13 (trixie)
+Kernel: 6.18.54.1-microsoft-standard-WSL2
+
+--- CPU ---
+CPU(s):                                  16
+Model name:                              12th Gen Intel(R) Core(TM) i7-12650H
+
+--- Memory ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       1.1Gi       6.5Gi        10Mi       150Mi       6.5Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+--- Disk usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  3.0G  953G   1% /
+
+--- Available disk space ---
+953G available on /
+
+========== SYSTEM REPORT ==========
+Student: Kozhanov Abdualim
+Date and time: 2026-10-28 23:58:18
+Username: Xigamori
+
+--- Operating system ---
+Debian GNU/Linux 13 (trixie)
+Kernel: 6.18.54.1-microsoft-standard-WSL2
+
+--- CPU ---
+CPU(s):                                  16
+Model name:                              12th Gen Intel(R) Core(TM) i7-12650H
+
+--- Memory ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       1.1Gi       6.5Gi        10Mi       150Mi       6.5Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+--- Disk usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  3.0G  953G   1% /
+
+--- Available disk space ---
+953G available on /
+
+========== SYSTEM REPORT ==========
+Student: Kozhanov Abdualim
+Date and time: 2026-10-29 00:10:57
+Username: Xigamori
+
+--- Operating system ---
+Debian GNU/Linux 13 (trixie)
+Kernel: 6.18.54.1-microsoft-standard-WSL2
+
+--- CPU ---
+CPU(s):                                  16
+Model name:                              12th Gen Intel(R) Core(TM) i7-12650H
+
+--- Memory ---
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       1.1Gi       6.4Gi        10Mi       160Mi       6.4Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+--- Disk usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  3.0G  953G   1% /
+
+--- Available disk space ---
+953G available on /
+
