@@ -4,3 +4,4 @@ Author: Kozhanov Abdualim
 
 ## Changes by Kozhanov Abdualim
 Added update operation: PUT /students/{id} updates the student's name and email.
+Pipeline runs automatically on new commits (Poll SCM).
