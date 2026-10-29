@@ -10,6 +10,6 @@ class StudentTest {
     void studentStoresName() {
         Student student = new Student();
         student.setName("Kozhanov Abdualim");
-        assertEquals("Wrong Name", student.getName());
+        assertEquals("Kozhanov Abdualim", student.getName());
     }
 }
